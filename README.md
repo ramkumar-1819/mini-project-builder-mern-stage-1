@@ -37,16 +37,16 @@ Your task is to build a complete exercise tracker using `react, node js, express
 Your task in this iteration is to create a complete figma design for the pages.
 
 ### PROGRESSION 2 |  START BUILDING
-Once the design is confirmed by your `Mentor`. You can right away start with the coding part. Your task in this is iteration is to complete all the backend api end points.
+Once the design is confirmed by your `Mentor`. You can right away start with the coding part. Your task in this is iteration is to complete all the backend api endpoints.
 
 ### PROGRESSION 3 | WELCOME PAGE
 Your task in this is progression is to create a `SPA` using react
 - `Home`
-- 'Header`
+- `Header`
 - `Footer`
-- `Main component is the plug and play area for displaying all the content`
-- `About Us containing description about your Exercise Tracker app`
-- `Navigation compononent inside Header`
+- `Main` is the plug and play area for displaying all the content
+- `About Us` containing description about your Exercise Tracker app
+- `Navigation` is a separate component and should be embedded inside header for routing to different pages
 - `Contact Us`
 In the next stage we will connect frontend and backend.
 
